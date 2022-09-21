@@ -1,5 +1,7 @@
 # Flat4j
 
+Status: ![main](https://github.com/timoteoponce/flat4j/actions/workflows/maven.yml/badge.svg?branch=main)
+
 Library for parsing and writing flat files in Java.
 
 Goals:
